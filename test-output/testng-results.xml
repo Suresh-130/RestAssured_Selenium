@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T15:49:57 IST" name="All Test Suite" finished-at="2024-02-23T15:50:06 IST" duration-ms="9134">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T15:49:57 IST" name="Test" finished-at="2024-02-23T15:50:06 IST" duration-ms="9134">
+      <class name="org.api.base.ApiTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:49:57 IST" name="setUp" finished-at="2024-02-23T15:49:57 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setupData()[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:49:57 IST" name="setupData" finished-at="2024-02-23T15:49:58 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testCreateToken()[pri:1, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:49:58 IST" name="testCreateToken" finished-at="2024-02-23T15:50:01 IST" duration-ms="3278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateToken -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:01 IST" name="getResult" finished-at="2024-02-23T15:50:01 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateToken status=SUCCESS method=ApiTest.testCreateToken()[pri:1, instance:org.api.base.ApiTest@320e400] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testCreateBooking()[pri:2, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:01 IST" name="testCreateBooking" finished-at="2024-02-23T15:50:02 IST" duration-ms="1362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBooking -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:02 IST" name="getResult" finished-at="2024-02-23T15:50:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateBooking status=SUCCESS method=ApiTest.testCreateBooking()[pri:2, instance:org.api.base.ApiTest@320e400] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testGetBookingById()[pri:3, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:02 IST" name="testGetBookingById" finished-at="2024-02-23T15:50:04 IST" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetBookingById -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:04 IST" name="getResult" finished-at="2024-02-23T15:50:04 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGetBookingById status=SUCCESS method=ApiTest.testGetBookingById()[pri:3, instance:org.api.base.ApiTest@320e400] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testUpdateBookingById()[pri:4, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:04 IST" name="testUpdateBookingById" finished-at="2024-02-23T15:50:05 IST" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateBookingById -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:05 IST" name="getResult" finished-at="2024-02-23T15:50:05 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testUpdateBookingById status=SUCCESS method=ApiTest.testUpdateBookingById()[pri:4, instance:org.api.base.ApiTest@320e400] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testDeleteBooking()[pri:5, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:05 IST" name="testDeleteBooking" finished-at="2024-02-23T15:50:06 IST" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteBooking -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:06 IST" name="getResult" finished-at="2024-02-23T15:50:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDeleteBooking status=SUCCESS method=ApiTest.testDeleteBooking()[pri:5, instance:org.api.base.ApiTest@320e400] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:org.api.base.ApiTest@320e400]" started-at="2024-02-23T15:50:06 IST" name="endReport" finished-at="2024-02-23T15:50:06 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- org.api.base.ApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

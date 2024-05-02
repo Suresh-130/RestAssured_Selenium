@@ -1,0 +1,59 @@
+[INFO ] 2024-02-23 15:49:57,687 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,693 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,695 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,695 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,699 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-02-23 15:49:57,709 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO ] 2024-02-23 15:49:57,711 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,713 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,716 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,717 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,718 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,719 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,720 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,721 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,723 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,724 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,727 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,728 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,730 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,731 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,733 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,733 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,735 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,735 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,737 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,740 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-02-23 15:49:57,742 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,742 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,742 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,742 org.testng.internal.Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-02-23 15:49:57,750 org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\suresh.kuruva\Documents\workspace-spring-tool-suite-4-4.19.1.RELEASE\seleniumapitesting\testng.xml
+
+[INFO ] 2024-02-23 15:49:57,771 org.api.base.Base:37 - Report Setup in each Test
+[INFO ] 2024-02-23 15:49:57,923 org.testng.internal.Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-02-23 15:49:58,054 org.api.base.Base:60 - CreateToken(username=admin, password=password123)
+[INFO ] 2024-02-23 15:49:58,054 org.api.base.Base:61 - Booking(firstname=nicolasa.legros, lastname=Kuhlman, totalPrice=4, depositPaid=false, bookingDates=BookingDates(checkin=Wed Feb 21 21:52:10 IST 2024, checkout=Sun Feb 25 01:41:47 IST 2024), additionalNeeds=E218E2CC)
+[INFO ] 2024-02-23 15:49:58,068 org.api.base.TestListener:14 - Test Started: testCreateToken
+[INFO ] 2024-02-23 15:50:01,343 org.api.base.TestListener:19 - Test Passed: testCreateToken
+[INFO ] 2024-02-23 15:50:01,349 org.api.base.Base:66 - Report Result in each Test
+[INFO ] 2024-02-23 15:50:01,355 org.api.base.TestListener:14 - Test Started: testCreateBooking
+[INFO ] 2024-02-23 15:50:02,716 org.api.base.TestListener:19 - Test Passed: testCreateBooking
+[INFO ] 2024-02-23 15:50:02,719 org.api.base.Base:66 - Report Result in each Test
+[INFO ] 2024-02-23 15:50:02,722 org.api.base.TestListener:14 - Test Started: testGetBookingById
+[INFO ] 2024-02-23 15:50:04,013 org.api.base.TestListener:19 - Test Passed: testGetBookingById
+[INFO ] 2024-02-23 15:50:04,020 org.api.base.Base:66 - Report Result in each Test
+[INFO ] 2024-02-23 15:50:04,026 org.api.base.TestListener:14 - Test Started: testUpdateBookingById
+[INFO ] 2024-02-23 15:50:05,342 org.api.base.TestListener:19 - Test Passed: testUpdateBookingById
+[INFO ] 2024-02-23 15:50:05,348 org.api.base.Base:66 - Report Result in each Test
+[INFO ] 2024-02-23 15:50:05,353 org.api.base.TestListener:14 - Test Started: testDeleteBooking
+[INFO ] 2024-02-23 15:50:06,611 org.api.base.TestListener:19 - Test Passed: testDeleteBooking
+[INFO ] 2024-02-23 15:50:06,616 org.api.base.Base:66 - Report Result in each Test
+[INFO ] 2024-02-23 15:50:06,937 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@34588991: 0 ms
+[INFO ] 2024-02-23 15:50:06,997 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1fb61db4: 58 ms
+[INFO ] 2024-02-23 15:50:07,072 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@78141c58: 74 ms
+[INFO ] 2024-02-23 15:50:07,073 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@9863ed5: 1 ms
+[INFO ] 2024-02-23 15:50:07,095 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ace6611: 22 ms
+[INFO ] 2024-02-23 15:50:07,102 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@44d6f9cf: 6 ms
+[INFO ] 2024-02-23 15:50:07,108 org.testng.internal.Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@11ad327f: 5 ms
